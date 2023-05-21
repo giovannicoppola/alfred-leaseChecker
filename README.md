@@ -1,6 +1,12 @@
 # alfred-leaseChecker 🏎️
 An Alfred Workflow to check your lease mileage
 
+<a href="https://github.com/giovannicoppola/alfred-leaseChecker/releases/latest/">
+<img alt="Downloads"
+src="https://img.shields.io/github/downloads/giovannicoppola/alfred-leaseChecker/total?color=purple&label=Downloads"><br/>
+</a>
+
+
 ![](leaseChecker.png)
 
 Currently US-based, happy to add other countries/currencies. 

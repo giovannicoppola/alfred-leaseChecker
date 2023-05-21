@@ -286,6 +286,8 @@ Currently US-based, happy to add other countries/currencies.
 			<string>OVERAGE_CHARGE</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>1.0</string>
 	<key>webaddress</key>
